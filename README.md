@@ -1,2 +1,2 @@
 # bl_boron
-Bunsenlabs Boron
+Bunsenlabs Boron - Linux Distro - Debian 12 - Openbox Window Mgr
